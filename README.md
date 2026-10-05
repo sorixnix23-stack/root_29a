@@ -1,2 +1,7 @@
 # root_29a
-we read the fine print and the source
+
+Security reviews that sting.
+
+If your blacklist is a string check, we're already inside.
+
+`-- root_29a`
